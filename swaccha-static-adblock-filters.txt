@@ -338,6 +338,7 @@ arthikpage.com##.top__header__ads
 ! ----- START https://narayanionline.com -----
 ||narayanionline.com/*.gif
 ##.col-md-12 .no-vigyapan-section
+##.so-content.no-news-main-content > div.no-vigyapan-section
 ##.no-margin-custom.d-lg-block.d-none.col-lg-3 > .no-vigyapan-sidebar-section
 ##.no-margin-custom.d-lg-block.d-none.col-lg-3 > .no-vigyapan-sidebar-section > .no-vigyapan-single
 ##.d-md-block.d-none.col-lg-3.col-md-4 > .no-vigyapan-sidebar-section > .no-vigyapan-single
