@@ -362,14 +362,14 @@ onlinekendra.com##.advertisement.below_menu
 
 ! ----- START https://dhadingnews.com -----
 dhadingnews.com###popmake-45435 > .popmake-content.pum-content > p
-dhadingnews.com##.pg-29801-1
-dhadingnews.com##.pgc-29801-2-2
-dhadingnews.com##.pg-29801-3
-dhadingnews.com##.pg-29801-7
-dhadingnews.com##.pg-29801-9
-dhadingnews.com##.pg-29801-11
-dhadingnews.com##.pg-29801-13
-dhadingnews.com##.pgc-29801-14-2
-dhadingnews.com##.pg-29801-15
+dhadingnews.com##.pg-29801-1 > .panel-grid-cell
+dhadingnews.com##.pgc-29801-2-2 > .panel-grid-cell
+dhadingnews.com##.pg-29801-3 > .panel-grid-cell
+dhadingnews.com##.pg-29801-7 > .panel-grid-cell
+dhadingnews.com##.pg-29801-9 > .panel-grid-cell
+dhadingnews.com##.pg-29801-11 > .panel-grid-cell
+dhadingnews.com##.pg-29801-13 > .panel-grid-cell
+dhadingnews.com##.pgc-29801-14-2 > .panel-grid-cell
+dhadingnews.com##.pg-29801-15 > .panel-grid-cell
 dhadingnews.com##.widget_black_studio_tinymce.widget
 ! ----- END https://dhadingnews.com -----
