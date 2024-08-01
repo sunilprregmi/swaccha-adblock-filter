@@ -358,9 +358,10 @@ onlinekendra.com##.stick.inner-sidebar > div.advertisement
 onlinekendra.com##.advertisement.sidebar1
 onlinekendra.com##.advertisement.in-news-down
 onlinekendra.com##.advertisement.below_menu
-! ----- END https://www.onlinekendra.com -----! ----- START https://dhadingnews.com -----
-dhadingnews.com##.pum-active.click_open.auto_open.pum-click-to-close.popmake-overlay.pum-theme-default-theme.pum-theme-45426.pum-overlay.pum
-dhadingnews.com##.pum-open.pum-open-overlay.pum-open-fixed
+! ----- END https://www.onlinekendra.com -----
+
+! ----- START https://dhadingnews.com -----
+
 dhadingnews.com###pg-29801-1
 dhadingnews.com###pgc-29801-2-2
 dhadingnews.com###pg-29801-3
