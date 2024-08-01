@@ -352,3 +352,11 @@ narayanionline.com##div.no-vigyapan-section > .container
 narayanionline.com##.no-news-users-reaction-section
 ! ----- END https://narayanionline.com -----
 
+! ----- START https://www.onlinekendra.com -----
+||www.onlinekendra.com/*.gif
+onlinekendra.com##.stick.inner-sidebar > div.advertisement
+onlinekendra.com##.advertisement.sidebar1
+onlinekendra.com##.advertisement.in-news-down
+onlinekendra.com##.advertisement.below_menu
+! ----- END https://www.onlinekendra.com -----
+
