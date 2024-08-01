@@ -346,6 +346,7 @@ narayanionline.com##div.inside-a:nth-of-type(2)
 narayanionline.com##div.inside-a:nth-of-type(3)
 narayanionline.com##.container > .no-vigyapan-section > section.widget
 narayanionline.com##.no-comment-content-wrap > .no-vigyapan-section
+narayanionline.com##.container > section.widget
 narayanionline.com##section.widget:nth-of-type(2)
 narayanionline.com##div.no-vigyapan-section > .container
 ! ----- END https://narayanionline.com -----
