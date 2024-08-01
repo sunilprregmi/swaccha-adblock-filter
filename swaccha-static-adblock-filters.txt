@@ -361,7 +361,7 @@ onlinekendra.com##.advertisement.below_menu
 ! ----- END https://www.onlinekendra.com -----
 
 ! ----- START https://dhadingnews.com -----
-dhadingnews.com##popmake-45435 > .popmake-content.pum-content > p
+dhadingnews.com###popmake-45435 > .popmake-content.pum-content > p
 dhadingnews.com##.pg-29801-1
 dhadingnews.com##.pgc-29801-2-2
 dhadingnews.com##.pg-29801-3
