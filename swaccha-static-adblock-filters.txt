@@ -349,5 +349,6 @@ narayanionline.com##.no-comment-content-wrap > .no-vigyapan-section
 narayanionline.com##.container > section.widget
 narayanionline.com##section.widget:nth-of-type(2)
 narayanionline.com##div.no-vigyapan-section > .container
+narayanionline.com##.no-news-users-reaction-section
 ! ----- END https://narayanionline.com -----
 
