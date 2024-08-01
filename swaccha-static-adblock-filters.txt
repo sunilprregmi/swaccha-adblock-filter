@@ -336,16 +336,17 @@ arthikpage.com##.top__header__ads
 ! ----- END https://merolagani.com -----
 
 ! ----- START https://narayanionline.com -----
-||narayanionline.com/*.gif$image
-##.col-md-12 .no-vigyapan-section
-##.so-content.no-news-main-content > div.no-vigyapan-section
-##.no-margin-custom.d-lg-block.d-none.col-lg-3 > .no-vigyapan-sidebar-section
-##.no-margin-custom.d-lg-block.d-none.col-lg-3 > .no-vigyapan-sidebar-section > .no-vigyapan-single
-##.d-md-block.d-none.col-lg-3.col-md-4 > .no-vigyapan-sidebar-section > .no-vigyapan-single
-##section.widget:nth-of-type(1)
-##div.inside-a:nth-of-type(2)
-##div.inside-a:nth-of-type(3)
-##.container > .no-vigyapan-section > section.widget
-##.no-comment-content-wrap > .no-vigyapan-section
+||narayanionline.com/*.gif
+narayanionline.com##.col-md-12 .no-vigyapan-section
+narayanionline.com##.no-margin-custom.d-lg-block.d-none.col-lg-3 > .no-vigyapan-sidebar-section
+narayanionline.com##.no-margin-custom.d-lg-block.d-none.col-lg-3 > .no-vigyapan-sidebar-section > .no-vigyapan-single
+narayanionline.com##.d-md-block.d-none.col-lg-3.col-md-4 > .no-vigyapan-sidebar-section > .no-vigyapan-single
+narayanionline.com##section.widget:nth-of-type(1)
+narayanionline.com##div.inside-a:nth-of-type(2)
+narayanionline.com##div.inside-a:nth-of-type(3)
+narayanionline.com##.container > .no-vigyapan-section > section.widget
+narayanionline.com##.no-comment-content-wrap > .no-vigyapan-section
+narayanionline.com##section.widget:nth-of-type(2)
+narayanionline.com##div.no-vigyapan-section > .container
 ! ----- END https://narayanionline.com -----
 
