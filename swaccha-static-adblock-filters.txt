@@ -336,7 +336,7 @@ arthikpage.com##.top__header__ads
 ! ----- END https://merolagani.com -----
 
 ! ----- START https://narayanionline.com -----
-||narayanionline.com/*.gif
+||narayanionline.com/*.gif$image
 ##.col-md-12 .no-vigyapan-section
 ##.so-content.no-news-main-content > div.no-vigyapan-section
 ##.no-margin-custom.d-lg-block.d-none.col-lg-3 > .no-vigyapan-sidebar-section
